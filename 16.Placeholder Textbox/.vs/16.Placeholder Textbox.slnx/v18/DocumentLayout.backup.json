@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_WinForm\\16.Placeholder Textbox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7503232B-8E84-4AF8-AFFC-40CD63B4A1E6}|16.Placeholder Textbox\\16.Placeholder Textbox.csproj|d:\\c#_winform\\16.placeholder textbox\\16.placeholder textbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7503232B-8E84-4AF8-AFFC-40CD63B4A1E6}|16.Placeholder Textbox\\16.Placeholder Textbox.csproj|solutionrelative:16.placeholder textbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503232B-8E84-4AF8-AFFC-40CD63B4A1E6}|16.Placeholder Textbox\\16.Placeholder Textbox.csproj|D:\\C#_WinForm\\16.Placeholder Textbox\\16.placeholder textbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503232B-8E84-4AF8-AFFC-40CD63B4A1E6}|16.Placeholder Textbox\\16.Placeholder Textbox.csproj|solutionrelative:16.placeholder textbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#_WinForm\\16.Placeholder Textbox\\16.Placeholder Textbox\\Form1.cs",
+              "RelativeDocumentMoniker": "16.Placeholder Textbox\\Form1.cs",
+              "ToolTip": "D:\\C#_WinForm\\16.Placeholder Textbox\\16.Placeholder Textbox\\Form1.cs",
+              "RelativeToolTip": "16.Placeholder Textbox\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvysAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T10:58:05.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#_WinForm\\16.Placeholder Textbox\\16.Placeholder Textbox\\Form1.cs",
+              "RelativeDocumentMoniker": "16.Placeholder Textbox\\Form1.cs",
+              "ToolTip": "D:\\C#_WinForm\\16.Placeholder Textbox\\16.Placeholder Textbox\\Form1.cs [Design]",
+              "RelativeToolTip": "16.Placeholder Textbox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T10:52:13.157Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\C#_WinForm\35.Inserting Checkbox Values\35.Inserting Checkbox Values\bin\Debug\35.Inserting Checkbox Values.exe.config
+D:\C#_WinForm\35.Inserting Checkbox Values\35.Inserting Checkbox Values\bin\Debug\35.Inserting Checkbox Values.exe
+D:\C#_WinForm\35.Inserting Checkbox Values\35.Inserting Checkbox Values\bin\Debug\35.Inserting Checkbox Values.pdb
+D:\C#_WinForm\35.Inserting Checkbox Values\35.Inserting Checkbox Values\obj\Debug\35.Inserting Checkbox Values.csproj.AssemblyReference.cache
+D:\C#_WinForm\35.Inserting Checkbox Values\35.Inserting Checkbox Values\obj\Debug\_35.Inserting_Checkbox_Values.Form1.resources
+D:\C#_WinForm\35.Inserting Checkbox Values\35.Inserting Checkbox Values\obj\Debug\_35.Inserting_Checkbox_Values.Properties.Resources.resources
+D:\C#_WinForm\35.Inserting Checkbox Values\35.Inserting Checkbox Values\obj\Debug\35.Inserting Checkbox Values.csproj.GenerateResource.cache
+D:\C#_WinForm\35.Inserting Checkbox Values\35.Inserting Checkbox Values\obj\Debug\35.Inserting Checkbox Values.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\35.Inserting Checkbox Values\35.Inserting Checkbox Values\obj\Debug\35.Inserting Checkbox Values.exe
+D:\C#_WinForm\35.Inserting Checkbox Values\35.Inserting Checkbox Values\obj\Debug\35.Inserting Checkbox Values.pdb

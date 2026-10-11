@@ -1,0 +1,10 @@
+D:\C#_WinForm\14.Extracting Numbers\14.Extracting Numbers\bin\Debug\14.Extracting Numbers.exe.config
+D:\C#_WinForm\14.Extracting Numbers\14.Extracting Numbers\bin\Debug\14.Extracting Numbers.exe
+D:\C#_WinForm\14.Extracting Numbers\14.Extracting Numbers\bin\Debug\14.Extracting Numbers.pdb
+D:\C#_WinForm\14.Extracting Numbers\14.Extracting Numbers\obj\Debug\14.Extracting Numbers.csproj.AssemblyReference.cache
+D:\C#_WinForm\14.Extracting Numbers\14.Extracting Numbers\obj\Debug\_14.Extracting_Numbers.Form1.resources
+D:\C#_WinForm\14.Extracting Numbers\14.Extracting Numbers\obj\Debug\_14.Extracting_Numbers.Properties.Resources.resources
+D:\C#_WinForm\14.Extracting Numbers\14.Extracting Numbers\obj\Debug\14.Extracting Numbers.csproj.GenerateResource.cache
+D:\C#_WinForm\14.Extracting Numbers\14.Extracting Numbers\obj\Debug\14.Extracting Numbers.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\14.Extracting Numbers\14.Extracting Numbers\obj\Debug\14.Extracting Numbers.exe
+D:\C#_WinForm\14.Extracting Numbers\14.Extracting Numbers\obj\Debug\14.Extracting Numbers.pdb

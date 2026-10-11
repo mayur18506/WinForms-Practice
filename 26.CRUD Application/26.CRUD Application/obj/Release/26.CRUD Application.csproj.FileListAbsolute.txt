@@ -1,0 +1,10 @@
+D:\C#_WinForm\26.CRUD Application\26.CRUD Application\bin\Release\26.CRUD Application.exe.config
+D:\C#_WinForm\26.CRUD Application\26.CRUD Application\bin\Release\26.CRUD Application.exe
+D:\C#_WinForm\26.CRUD Application\26.CRUD Application\bin\Release\26.CRUD Application.pdb
+D:\C#_WinForm\26.CRUD Application\26.CRUD Application\obj\Release\26.CRUD Application.csproj.AssemblyReference.cache
+D:\C#_WinForm\26.CRUD Application\26.CRUD Application\obj\Release\_26.CRUD_Application.Form1.resources
+D:\C#_WinForm\26.CRUD Application\26.CRUD Application\obj\Release\_26.CRUD_Application.Properties.Resources.resources
+D:\C#_WinForm\26.CRUD Application\26.CRUD Application\obj\Release\26.CRUD Application.csproj.GenerateResource.cache
+D:\C#_WinForm\26.CRUD Application\26.CRUD Application\obj\Release\26.CRUD Application.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\26.CRUD Application\26.CRUD Application\obj\Release\26.CRUD Application.exe
+D:\C#_WinForm\26.CRUD Application\26.CRUD Application\obj\Release\26.CRUD Application.pdb

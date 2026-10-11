@@ -1,0 +1,10 @@
+D:\C#_WinForm\5.Link Label Control\5.Link Label Control\bin\Debug\5.Link Label Control.exe.config
+D:\C#_WinForm\5.Link Label Control\5.Link Label Control\bin\Debug\5.Link Label Control.exe
+D:\C#_WinForm\5.Link Label Control\5.Link Label Control\bin\Debug\5.Link Label Control.pdb
+D:\C#_WinForm\5.Link Label Control\5.Link Label Control\obj\Debug\5.Link Label Control.csproj.AssemblyReference.cache
+D:\C#_WinForm\5.Link Label Control\5.Link Label Control\obj\Debug\_5.Link_Label_Control.Form1.resources
+D:\C#_WinForm\5.Link Label Control\5.Link Label Control\obj\Debug\_5.Link_Label_Control.Properties.Resources.resources
+D:\C#_WinForm\5.Link Label Control\5.Link Label Control\obj\Debug\5.Link Label Control.csproj.GenerateResource.cache
+D:\C#_WinForm\5.Link Label Control\5.Link Label Control\obj\Debug\5.Link Label Control.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\5.Link Label Control\5.Link Label Control\obj\Debug\5.Link Label Control.exe
+D:\C#_WinForm\5.Link Label Control\5.Link Label Control\obj\Debug\5.Link Label Control.pdb

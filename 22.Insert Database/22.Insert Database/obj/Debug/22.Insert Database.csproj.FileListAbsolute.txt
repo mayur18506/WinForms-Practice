@@ -1,0 +1,10 @@
+D:\C#_WinForm\22.Insert Database\22.Insert Database\bin\Debug\22.Insert Database.exe.config
+D:\C#_WinForm\22.Insert Database\22.Insert Database\bin\Debug\22.Insert Database.exe
+D:\C#_WinForm\22.Insert Database\22.Insert Database\bin\Debug\22.Insert Database.pdb
+D:\C#_WinForm\22.Insert Database\22.Insert Database\obj\Debug\22.Insert Database.csproj.AssemblyReference.cache
+D:\C#_WinForm\22.Insert Database\22.Insert Database\obj\Debug\_22.Insert_Database.Form1.resources
+D:\C#_WinForm\22.Insert Database\22.Insert Database\obj\Debug\_22.Insert_Database.Properties.Resources.resources
+D:\C#_WinForm\22.Insert Database\22.Insert Database\obj\Debug\22.Insert Database.csproj.GenerateResource.cache
+D:\C#_WinForm\22.Insert Database\22.Insert Database\obj\Debug\22.Insert Database.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\22.Insert Database\22.Insert Database\obj\Debug\22.Insert Database.exe
+D:\C#_WinForm\22.Insert Database\22.Insert Database\obj\Debug\22.Insert Database.pdb

@@ -1,0 +1,4 @@
+D:\C#_WinForm\Desktop Management System\Desktop Management System\obj\Debug\Desktop Management System.csproj.AssemblyReference.cache
+D:\C#_WinForm\Desktop Management System\Desktop Management System\obj\Debug\Desktop_Management_System.Properties.Resources.resources
+D:\C#_WinForm\Desktop Management System\Desktop Management System\obj\Debug\Desktop Management System.csproj.GenerateResource.cache
+D:\C#_WinForm\Desktop Management System\Desktop Management System\obj\Debug\Desktop Management System.csproj.CoreCompileInputs.cache

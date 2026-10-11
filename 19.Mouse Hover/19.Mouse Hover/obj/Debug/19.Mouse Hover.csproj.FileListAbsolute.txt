@@ -1,0 +1,10 @@
+D:\C#_WinForm\19.Mouse Hover\19.Mouse Hover\obj\Debug\19.Mouse Hover.csproj.AssemblyReference.cache
+D:\C#_WinForm\19.Mouse Hover\19.Mouse Hover\obj\Debug\_19.Mouse_Hover.Form1.resources
+D:\C#_WinForm\19.Mouse Hover\19.Mouse Hover\obj\Debug\_19.Mouse_Hover.Properties.Resources.resources
+D:\C#_WinForm\19.Mouse Hover\19.Mouse Hover\obj\Debug\19.Mouse Hover.csproj.GenerateResource.cache
+D:\C#_WinForm\19.Mouse Hover\19.Mouse Hover\obj\Debug\19.Mouse Hover.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\19.Mouse Hover\19.Mouse Hover\bin\Debug\19.Mouse Hover.exe.config
+D:\C#_WinForm\19.Mouse Hover\19.Mouse Hover\bin\Debug\19.Mouse Hover.exe
+D:\C#_WinForm\19.Mouse Hover\19.Mouse Hover\bin\Debug\19.Mouse Hover.pdb
+D:\C#_WinForm\19.Mouse Hover\19.Mouse Hover\obj\Debug\19.Mouse Hover.exe
+D:\C#_WinForm\19.Mouse Hover\19.Mouse Hover\obj\Debug\19.Mouse Hover.pdb

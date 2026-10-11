@@ -1,0 +1,10 @@
+D:\C#_WinForm\3.List Box\3.List Box\bin\Debug\3.List Box.exe.config
+D:\C#_WinForm\3.List Box\3.List Box\bin\Debug\3.List Box.exe
+D:\C#_WinForm\3.List Box\3.List Box\bin\Debug\3.List Box.pdb
+D:\C#_WinForm\3.List Box\3.List Box\obj\Debug\3.List Box.csproj.AssemblyReference.cache
+D:\C#_WinForm\3.List Box\3.List Box\obj\Debug\_3.List_Box.Form1.resources
+D:\C#_WinForm\3.List Box\3.List Box\obj\Debug\_3.List_Box.Properties.Resources.resources
+D:\C#_WinForm\3.List Box\3.List Box\obj\Debug\3.List Box.csproj.GenerateResource.cache
+D:\C#_WinForm\3.List Box\3.List Box\obj\Debug\3.List Box.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\3.List Box\3.List Box\obj\Debug\3.List Box.exe
+D:\C#_WinForm\3.List Box\3.List Box\obj\Debug\3.List Box.pdb

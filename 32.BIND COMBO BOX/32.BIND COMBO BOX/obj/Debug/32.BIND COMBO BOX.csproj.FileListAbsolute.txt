@@ -1,0 +1,10 @@
+D:\C#_WinForm\32.BIND COMBO BOX\32.BIND COMBO BOX\bin\Debug\32.BIND COMBO BOX.exe.config
+D:\C#_WinForm\32.BIND COMBO BOX\32.BIND COMBO BOX\bin\Debug\32.BIND COMBO BOX.exe
+D:\C#_WinForm\32.BIND COMBO BOX\32.BIND COMBO BOX\bin\Debug\32.BIND COMBO BOX.pdb
+D:\C#_WinForm\32.BIND COMBO BOX\32.BIND COMBO BOX\obj\Debug\32.BIND COMBO BOX.csproj.AssemblyReference.cache
+D:\C#_WinForm\32.BIND COMBO BOX\32.BIND COMBO BOX\obj\Debug\_32.BIND_COMBO_BOX.Form1.resources
+D:\C#_WinForm\32.BIND COMBO BOX\32.BIND COMBO BOX\obj\Debug\_32.BIND_COMBO_BOX.Properties.Resources.resources
+D:\C#_WinForm\32.BIND COMBO BOX\32.BIND COMBO BOX\obj\Debug\32.BIND COMBO BOX.csproj.GenerateResource.cache
+D:\C#_WinForm\32.BIND COMBO BOX\32.BIND COMBO BOX\obj\Debug\32.BIND COMBO BOX.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\32.BIND COMBO BOX\32.BIND COMBO BOX\obj\Debug\32.BIND COMBO BOX.exe
+D:\C#_WinForm\32.BIND COMBO BOX\32.BIND COMBO BOX\obj\Debug\32.BIND COMBO BOX.pdb

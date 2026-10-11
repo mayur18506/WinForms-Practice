@@ -1,0 +1,16 @@
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\bin\Debug\55.Shopping Mart Apllication Part-1.exe.config
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\bin\Debug\55.Shopping Mart Apllication Part-1.exe
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\bin\Debug\55.Shopping Mart Apllication Part-1.pdb
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\55.Shopping Mart Apllication Part-1.csproj.AssemblyReference.cache
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\_55.Shopping_Mart_Apllication_Part_1.Form1.resources
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\_55.Shopping_Mart_Apllication_Part_1.Properties.Resources.resources
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\55.Shopping Mart Apllication Part-1.csproj.GenerateResource.cache
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\55.Shopping Mart Apllication Part-1.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\55.Shopping Mart Apllication Part-1.exe
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\55.Shopping Mart Apllication Part-1.pdb
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\_55.Shopping_Mart_Apllication_Part_1.LOGIN.resources
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\_55.Shopping_Mart_Apllication_Part_1.SIGNUP.resources
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\_55.Shopping_Mart_Apllication_Part_1.AddItemForm.resources
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\_55.Shopping_Mart_Apllication_Part_1.EditItemsform.resources
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\_55.Shopping_Mart_Apllication_Part_1.ViewDataForm.resources
+D:\C#_WinForm\55.Shopping Mart Apllication Part-1\55.Shopping Mart Apllication Part-1\obj\Debug\_55.Shopping_Mart_Apllication_Part_1.DetailsandSearchForm.resources

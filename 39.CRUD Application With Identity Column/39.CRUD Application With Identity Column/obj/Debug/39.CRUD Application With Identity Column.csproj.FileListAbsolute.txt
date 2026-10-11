@@ -1,0 +1,10 @@
+D:\C#_WinForm\39.CRUD Application With Identity Column\39.CRUD Application With Identity Column\bin\Debug\39.CRUD Application With Identity Column.exe.config
+D:\C#_WinForm\39.CRUD Application With Identity Column\39.CRUD Application With Identity Column\bin\Debug\39.CRUD Application With Identity Column.exe
+D:\C#_WinForm\39.CRUD Application With Identity Column\39.CRUD Application With Identity Column\bin\Debug\39.CRUD Application With Identity Column.pdb
+D:\C#_WinForm\39.CRUD Application With Identity Column\39.CRUD Application With Identity Column\obj\Debug\39.CRUD Application With Identity Column.csproj.AssemblyReference.cache
+D:\C#_WinForm\39.CRUD Application With Identity Column\39.CRUD Application With Identity Column\obj\Debug\_39.CRUD_Application_With_Identity_Column.Form1.resources
+D:\C#_WinForm\39.CRUD Application With Identity Column\39.CRUD Application With Identity Column\obj\Debug\_39.CRUD_Application_With_Identity_Column.Properties.Resources.resources
+D:\C#_WinForm\39.CRUD Application With Identity Column\39.CRUD Application With Identity Column\obj\Debug\39.CRUD Application With Identity Column.csproj.GenerateResource.cache
+D:\C#_WinForm\39.CRUD Application With Identity Column\39.CRUD Application With Identity Column\obj\Debug\39.CRUD Application With Identity Column.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\39.CRUD Application With Identity Column\39.CRUD Application With Identity Column\obj\Debug\39.CRUD Application With Identity Column.exe
+D:\C#_WinForm\39.CRUD Application With Identity Column\39.CRUD Application With Identity Column\obj\Debug\39.CRUD Application With Identity Column.pdb

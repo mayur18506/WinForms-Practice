@@ -1,0 +1,14 @@
+D:\C#_WinForm\51.My new metro app\51.My new metro app\bin\Debug\51.My new metro app.exe.config
+D:\C#_WinForm\51.My new metro app\51.My new metro app\bin\Debug\51.My new metro app.exe
+D:\C#_WinForm\51.My new metro app\51.My new metro app\bin\Debug\51.My new metro app.pdb
+D:\C#_WinForm\51.My new metro app\51.My new metro app\bin\Debug\MetroFramework.Design.dll
+D:\C#_WinForm\51.My new metro app\51.My new metro app\bin\Debug\MetroFramework.dll
+D:\C#_WinForm\51.My new metro app\51.My new metro app\bin\Debug\MetroFramework.Fonts.dll
+D:\C#_WinForm\51.My new metro app\51.My new metro app\obj\Debug\51.My new metro app.csproj.AssemblyReference.cache
+D:\C#_WinForm\51.My new metro app\51.My new metro app\obj\Debug\_51.My_new_metro_app.Form1.resources
+D:\C#_WinForm\51.My new metro app\51.My new metro app\obj\Debug\_51.My_new_metro_app.Properties.Resources.resources
+D:\C#_WinForm\51.My new metro app\51.My new metro app\obj\Debug\51.My new metro app.csproj.GenerateResource.cache
+D:\C#_WinForm\51.My new metro app\51.My new metro app\obj\Debug\51.My new metro app.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\51.My new metro app\51.My new metro app\obj\Debug\51.My ne.13EAE10B.Up2Date
+D:\C#_WinForm\51.My new metro app\51.My new metro app\obj\Debug\51.My new metro app.exe
+D:\C#_WinForm\51.My new metro app\51.My new metro app\obj\Debug\51.My new metro app.pdb

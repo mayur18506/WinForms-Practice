@@ -1,0 +1,10 @@
+D:\C#_WinForm\18.Date and Time\18.Date and Time\bin\Debug\18.Date and Time.exe.config
+D:\C#_WinForm\18.Date and Time\18.Date and Time\bin\Debug\18.Date and Time.exe
+D:\C#_WinForm\18.Date and Time\18.Date and Time\bin\Debug\18.Date and Time.pdb
+D:\C#_WinForm\18.Date and Time\18.Date and Time\obj\Debug\18.Date and Time.csproj.AssemblyReference.cache
+D:\C#_WinForm\18.Date and Time\18.Date and Time\obj\Debug\_18.Date_and_Time.Form1.resources
+D:\C#_WinForm\18.Date and Time\18.Date and Time\obj\Debug\_18.Date_and_Time.Properties.Resources.resources
+D:\C#_WinForm\18.Date and Time\18.Date and Time\obj\Debug\18.Date and Time.csproj.GenerateResource.cache
+D:\C#_WinForm\18.Date and Time\18.Date and Time\obj\Debug\18.Date and Time.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\18.Date and Time\18.Date and Time\obj\Debug\18.Date and Time.exe
+D:\C#_WinForm\18.Date and Time\18.Date and Time\obj\Debug\18.Date and Time.pdb

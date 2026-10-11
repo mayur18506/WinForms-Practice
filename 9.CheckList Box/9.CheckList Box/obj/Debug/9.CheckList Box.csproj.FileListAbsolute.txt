@@ -1,0 +1,10 @@
+D:\C#_WinForm\9.CheckList Box\9.CheckList Box\bin\Debug\9.CheckList Box.exe.config
+D:\C#_WinForm\9.CheckList Box\9.CheckList Box\bin\Debug\9.CheckList Box.exe
+D:\C#_WinForm\9.CheckList Box\9.CheckList Box\bin\Debug\9.CheckList Box.pdb
+D:\C#_WinForm\9.CheckList Box\9.CheckList Box\obj\Debug\9.CheckList Box.csproj.AssemblyReference.cache
+D:\C#_WinForm\9.CheckList Box\9.CheckList Box\obj\Debug\_9.CheckList_Box.Form1.resources
+D:\C#_WinForm\9.CheckList Box\9.CheckList Box\obj\Debug\_9.CheckList_Box.Properties.Resources.resources
+D:\C#_WinForm\9.CheckList Box\9.CheckList Box\obj\Debug\9.CheckList Box.csproj.GenerateResource.cache
+D:\C#_WinForm\9.CheckList Box\9.CheckList Box\obj\Debug\9.CheckList Box.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\9.CheckList Box\9.CheckList Box\obj\Debug\9.CheckList Box.exe
+D:\C#_WinForm\9.CheckList Box\9.CheckList Box\obj\Debug\9.CheckList Box.pdb

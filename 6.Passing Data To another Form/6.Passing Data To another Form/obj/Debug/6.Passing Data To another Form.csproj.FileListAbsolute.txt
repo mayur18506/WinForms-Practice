@@ -1,0 +1,11 @@
+D:\C#_WinForm\6.Passing Data To another Form\6.Passing Data To another Form\bin\Debug\6.Passing Data To another Form.exe.config
+D:\C#_WinForm\6.Passing Data To another Form\6.Passing Data To another Form\bin\Debug\6.Passing Data To another Form.exe
+D:\C#_WinForm\6.Passing Data To another Form\6.Passing Data To another Form\bin\Debug\6.Passing Data To another Form.pdb
+D:\C#_WinForm\6.Passing Data To another Form\6.Passing Data To another Form\obj\Debug\6.Passing Data To another Form.csproj.AssemblyReference.cache
+D:\C#_WinForm\6.Passing Data To another Form\6.Passing Data To another Form\obj\Debug\_6.Passing_Data_To_another_Form.Form1.resources
+D:\C#_WinForm\6.Passing Data To another Form\6.Passing Data To another Form\obj\Debug\_6.Passing_Data_To_another_Form.Form2.resources
+D:\C#_WinForm\6.Passing Data To another Form\6.Passing Data To another Form\obj\Debug\_6.Passing_Data_To_another_Form.Properties.Resources.resources
+D:\C#_WinForm\6.Passing Data To another Form\6.Passing Data To another Form\obj\Debug\6.Passing Data To another Form.csproj.GenerateResource.cache
+D:\C#_WinForm\6.Passing Data To another Form\6.Passing Data To another Form\obj\Debug\6.Passing Data To another Form.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\6.Passing Data To another Form\6.Passing Data To another Form\obj\Debug\6.Passing Data To another Form.exe
+D:\C#_WinForm\6.Passing Data To another Form\6.Passing Data To another Form\obj\Debug\6.Passing Data To another Form.pdb

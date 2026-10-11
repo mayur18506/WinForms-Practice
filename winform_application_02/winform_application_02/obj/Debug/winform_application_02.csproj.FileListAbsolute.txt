@@ -1,0 +1,10 @@
+D:\c#_Winform\winform_application_02\winform_application_02\bin\Debug\winform_application_02.exe.config
+D:\c#_Winform\winform_application_02\winform_application_02\bin\Debug\winform_application_02.exe
+D:\c#_Winform\winform_application_02\winform_application_02\bin\Debug\winform_application_02.pdb
+D:\c#_Winform\winform_application_02\winform_application_02\obj\Debug\winform_application_02.csproj.AssemblyReference.cache
+D:\c#_Winform\winform_application_02\winform_application_02\obj\Debug\winform_application_02.Properties.Resources.resources
+D:\c#_Winform\winform_application_02\winform_application_02\obj\Debug\winform_application_02.csproj.GenerateResource.cache
+D:\c#_Winform\winform_application_02\winform_application_02\obj\Debug\winform_application_02.csproj.CoreCompileInputs.cache
+D:\c#_Winform\winform_application_02\winform_application_02\obj\Debug\winform_application_02.exe
+D:\c#_Winform\winform_application_02\winform_application_02\obj\Debug\winform_application_02.pdb
+D:\c#_Winform\winform_application_02\winform_application_02\obj\Debug\winform_application_02.Form1.resources

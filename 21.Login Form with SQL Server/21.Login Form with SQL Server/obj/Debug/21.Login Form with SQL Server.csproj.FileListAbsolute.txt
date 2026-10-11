@@ -1,0 +1,10 @@
+D:\C#_WinForm\21.Login Form with SQL Server\21.Login Form with SQL Server\bin\Debug\21.Login Form with SQL Server.exe.config
+D:\C#_WinForm\21.Login Form with SQL Server\21.Login Form with SQL Server\bin\Debug\21.Login Form with SQL Server.exe
+D:\C#_WinForm\21.Login Form with SQL Server\21.Login Form with SQL Server\bin\Debug\21.Login Form with SQL Server.pdb
+D:\C#_WinForm\21.Login Form with SQL Server\21.Login Form with SQL Server\obj\Debug\21.Login Form with SQL Server.csproj.AssemblyReference.cache
+D:\C#_WinForm\21.Login Form with SQL Server\21.Login Form with SQL Server\obj\Debug\_21.Login_Form_with_SQL_Server.Form1.resources
+D:\C#_WinForm\21.Login Form with SQL Server\21.Login Form with SQL Server\obj\Debug\_21.Login_Form_with_SQL_Server.Properties.Resources.resources
+D:\C#_WinForm\21.Login Form with SQL Server\21.Login Form with SQL Server\obj\Debug\21.Login Form with SQL Server.csproj.GenerateResource.cache
+D:\C#_WinForm\21.Login Form with SQL Server\21.Login Form with SQL Server\obj\Debug\21.Login Form with SQL Server.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\21.Login Form with SQL Server\21.Login Form with SQL Server\obj\Debug\21.Login Form with SQL Server.exe
+D:\C#_WinForm\21.Login Form with SQL Server\21.Login Form with SQL Server\obj\Debug\21.Login Form with SQL Server.pdb

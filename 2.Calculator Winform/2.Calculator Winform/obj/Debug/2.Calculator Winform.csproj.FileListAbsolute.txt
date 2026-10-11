@@ -1,0 +1,10 @@
+D:\C#_WinForm\2.Calculator Winform\2.Calculator Winform\bin\Debug\2.Calculator Winform.exe.config
+D:\C#_WinForm\2.Calculator Winform\2.Calculator Winform\bin\Debug\2.Calculator Winform.exe
+D:\C#_WinForm\2.Calculator Winform\2.Calculator Winform\bin\Debug\2.Calculator Winform.pdb
+D:\C#_WinForm\2.Calculator Winform\2.Calculator Winform\obj\Debug\2.Calculator Winform.csproj.AssemblyReference.cache
+D:\C#_WinForm\2.Calculator Winform\2.Calculator Winform\obj\Debug\_2.Calculator_Winform.Form1.resources
+D:\C#_WinForm\2.Calculator Winform\2.Calculator Winform\obj\Debug\_2.Calculator_Winform.Properties.Resources.resources
+D:\C#_WinForm\2.Calculator Winform\2.Calculator Winform\obj\Debug\2.Calculator Winform.csproj.GenerateResource.cache
+D:\C#_WinForm\2.Calculator Winform\2.Calculator Winform\obj\Debug\2.Calculator Winform.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\2.Calculator Winform\2.Calculator Winform\obj\Debug\2.Calculator Winform.exe
+D:\C#_WinForm\2.Calculator Winform\2.Calculator Winform\obj\Debug\2.Calculator Winform.pdb

@@ -1,0 +1,10 @@
+D:\C#_WinForm\15.validations Textbox\15.validations Textbox\bin\Debug\15.validations Textbox.exe.config
+D:\C#_WinForm\15.validations Textbox\15.validations Textbox\bin\Debug\15.validations Textbox.exe
+D:\C#_WinForm\15.validations Textbox\15.validations Textbox\bin\Debug\15.validations Textbox.pdb
+D:\C#_WinForm\15.validations Textbox\15.validations Textbox\obj\Debug\15.validations Textbox.csproj.AssemblyReference.cache
+D:\C#_WinForm\15.validations Textbox\15.validations Textbox\obj\Debug\_15.validations_Textbox.Form1.resources
+D:\C#_WinForm\15.validations Textbox\15.validations Textbox\obj\Debug\_15.validations_Textbox.Properties.Resources.resources
+D:\C#_WinForm\15.validations Textbox\15.validations Textbox\obj\Debug\15.validations Textbox.csproj.GenerateResource.cache
+D:\C#_WinForm\15.validations Textbox\15.validations Textbox\obj\Debug\15.validations Textbox.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\15.validations Textbox\15.validations Textbox\obj\Debug\15.validations Textbox.exe
+D:\C#_WinForm\15.validations Textbox\15.validations Textbox\obj\Debug\15.validations Textbox.pdb

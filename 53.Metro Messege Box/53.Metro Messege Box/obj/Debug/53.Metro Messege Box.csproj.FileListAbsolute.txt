@@ -1,0 +1,14 @@
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\bin\Debug\53.Metro Messege Box.exe.config
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\bin\Debug\53.Metro Messege Box.exe
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\bin\Debug\53.Metro Messege Box.pdb
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\bin\Debug\MetroFramework.Design.dll
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\bin\Debug\MetroFramework.dll
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\bin\Debug\MetroFramework.Fonts.dll
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\obj\Debug\53.Metro Messege Box.csproj.AssemblyReference.cache
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\obj\Debug\_53.Metro_Messege_Box.Form1.resources
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\obj\Debug\_53.Metro_Messege_Box.Properties.Resources.resources
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\obj\Debug\53.Metro Messege Box.csproj.GenerateResource.cache
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\obj\Debug\53.Metro Messege Box.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\obj\Debug\53.Metro.8C2E9293.Up2Date
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\obj\Debug\53.Metro Messege Box.exe
+D:\C#_WinForm\53.Metro Messege Box\53.Metro Messege Box\obj\Debug\53.Metro Messege Box.pdb

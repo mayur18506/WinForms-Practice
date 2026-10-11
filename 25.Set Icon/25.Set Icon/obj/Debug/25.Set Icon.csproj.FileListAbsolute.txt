@@ -1,0 +1,9 @@
+D:\C#_WinForm\25.Set Icon\25.Set Icon\bin\Debug\25.Set Icon.exe.config
+D:\C#_WinForm\25.Set Icon\25.Set Icon\bin\Debug\25.Set Icon.exe
+D:\C#_WinForm\25.Set Icon\25.Set Icon\bin\Debug\25.Set Icon.pdb
+D:\C#_WinForm\25.Set Icon\25.Set Icon\obj\Debug\25.Set Icon.csproj.AssemblyReference.cache
+D:\C#_WinForm\25.Set Icon\25.Set Icon\obj\Debug\_25.Set_Icon.Properties.Resources.resources
+D:\C#_WinForm\25.Set Icon\25.Set Icon\obj\Debug\25.Set Icon.csproj.GenerateResource.cache
+D:\C#_WinForm\25.Set Icon\25.Set Icon\obj\Debug\25.Set Icon.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\25.Set Icon\25.Set Icon\obj\Debug\25.Set Icon.exe
+D:\C#_WinForm\25.Set Icon\25.Set Icon\obj\Debug\25.Set Icon.pdb

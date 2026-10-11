@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_WinForm\\32.BIND COMBO BOX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B27A3F-4981-4D1E-A129-4779C26AE885}|32.BIND COMBO BOX\\32.BIND COMBO BOX.csproj|d:\\c#_winform\\32.bind combo box\\32.bind combo box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3B27A3F-4981-4D1E-A129-4779C26AE885}|32.BIND COMBO BOX\\32.BIND COMBO BOX.csproj|solutionrelative:32.bind combo box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B27A3F-4981-4D1E-A129-4779C26AE885}|32.BIND COMBO BOX\\32.BIND COMBO BOX.csproj|d:\\c#_winform\\32.bind combo box\\32.bind combo box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B27A3F-4981-4D1E-A129-4779C26AE885}|32.BIND COMBO BOX\\32.BIND COMBO BOX.csproj|solutionrelative:32.bind combo box\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B27A3F-4981-4D1E-A129-4779C26AE885}|32.BIND COMBO BOX\\32.BIND COMBO BOX.csproj|d:\\c#_winform\\32.bind combo box\\32.bind combo box\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C3B27A3F-4981-4D1E-A129-4779C26AE885}|32.BIND COMBO BOX\\32.BIND COMBO BOX.csproj|solutionrelative:32.bind combo box\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#_WinForm\\32.BIND COMBO BOX\\32.BIND COMBO BOX\\Form1.cs",
+              "RelativeDocumentMoniker": "32.BIND COMBO BOX\\Form1.cs",
+              "ToolTip": "D:\\C#_WinForm\\32.BIND COMBO BOX\\32.BIND COMBO BOX\\Form1.cs",
+              "RelativeToolTip": "32.BIND COMBO BOX\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T07:22:02.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\C#_WinForm\\32.BIND COMBO BOX\\32.BIND COMBO BOX\\App.config",
+              "RelativeDocumentMoniker": "32.BIND COMBO BOX\\App.config",
+              "ToolTip": "D:\\C#_WinForm\\32.BIND COMBO BOX\\32.BIND COMBO BOX\\App.config",
+              "RelativeToolTip": "32.BIND COMBO BOX\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-15T07:18:21.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#_WinForm\\32.BIND COMBO BOX\\32.BIND COMBO BOX\\Form1.cs",
+              "RelativeDocumentMoniker": "32.BIND COMBO BOX\\Form1.cs",
+              "ToolTip": "D:\\C#_WinForm\\32.BIND COMBO BOX\\32.BIND COMBO BOX\\Form1.cs [Design]",
+              "RelativeToolTip": "32.BIND COMBO BOX\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T07:16:23.975Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

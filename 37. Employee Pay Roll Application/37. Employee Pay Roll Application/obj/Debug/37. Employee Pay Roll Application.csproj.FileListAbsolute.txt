@@ -1,0 +1,10 @@
+D:\C#_WinForm\37. Employee Pay Roll Application\37. Employee Pay Roll Application\bin\Debug\_37.Employee_Pay_Roll_Application.exe.config
+D:\C#_WinForm\37. Employee Pay Roll Application\37. Employee Pay Roll Application\bin\Debug\_37.Employee_Pay_Roll_Application.exe
+D:\C#_WinForm\37. Employee Pay Roll Application\37. Employee Pay Roll Application\bin\Debug\_37.Employee_Pay_Roll_Application.pdb
+D:\C#_WinForm\37. Employee Pay Roll Application\37. Employee Pay Roll Application\obj\Debug\37. Employee Pay Roll Application.csproj.AssemblyReference.cache
+D:\C#_WinForm\37. Employee Pay Roll Application\37. Employee Pay Roll Application\obj\Debug\_37.Employee_Pay_Roll_Application.Form1.resources
+D:\C#_WinForm\37. Employee Pay Roll Application\37. Employee Pay Roll Application\obj\Debug\_37.Employee_Pay_Roll_Application.Properties.Resources.resources
+D:\C#_WinForm\37. Employee Pay Roll Application\37. Employee Pay Roll Application\obj\Debug\37. Employee Pay Roll Application.csproj.GenerateResource.cache
+D:\C#_WinForm\37. Employee Pay Roll Application\37. Employee Pay Roll Application\obj\Debug\37. Employee Pay Roll Application.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\37. Employee Pay Roll Application\37. Employee Pay Roll Application\obj\Debug\_37.Employee_Pay_Roll_Application.exe
+D:\C#_WinForm\37. Employee Pay Roll Application\37. Employee Pay Roll Application\obj\Debug\_37.Employee_Pay_Roll_Application.pdb

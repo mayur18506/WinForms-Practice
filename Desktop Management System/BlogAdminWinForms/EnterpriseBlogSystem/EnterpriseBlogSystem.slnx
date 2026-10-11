@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BlogAdminWinForms/BlogAdminWinForms.csproj" />
+  <Project Path="BlogApp.Server/BlogApp.Server.csproj" />
+</Solution>

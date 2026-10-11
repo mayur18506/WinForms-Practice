@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_WinForm\\49.DATABASE FIRST APPROCH CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98E60653-6243-4853-8F30-F1F0A45A5C89}|49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD.csproj|d:\\c#_winform\\49.database first approch crud\\49.database first approch crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E60653-6243-4853-8F30-F1F0A45A5C89}|49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD.csproj|solutionrelative:49.database first approch crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E60653-6243-4853-8F30-F1F0A45A5C89}|49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD.csproj|d:\\c#_winform\\49.database first approch crud\\49.database first approch crud\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E60653-6243-4853-8F30-F1F0A45A5C89}|49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD.csproj|solutionrelative:49.database first approch crud\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E60653-6243-4853-8F30-F1F0A45A5C89}|49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD.csproj|d:\\c#_winform\\49.database first approch crud\\49.database first approch crud\\model\\studentmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{98E60653-6243-4853-8F30-F1F0A45A5C89}|49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD.csproj|solutionrelative:49.database first approch crud\\model\\studentmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E60653-6243-4853-8F30-F1F0A45A5C89}|49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD.csproj|d:\\c#_winform\\49.database first approch crud\\49.database first approch crud\\model\\studentmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E60653-6243-4853-8F30-F1F0A45A5C89}|49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD.csproj|solutionrelative:49.database first approch crud\\model\\studentmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98E60653-6243-4853-8F30-F1F0A45A5C89}|49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD.csproj|d:\\c#_winform\\49.database first approch crud\\49.database first approch crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98E60653-6243-4853-8F30-F1F0A45A5C89}|49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD.csproj|solutionrelative:49.database first approch crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#_WinForm\\49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "49.DATABASE FIRST APPROCH CRUD\\Form1.cs",
+              "ToolTip": "D:\\C#_WinForm\\49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD\\Form1.cs*",
+              "RelativeToolTip": "49.DATABASE FIRST APPROCH CRUD\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:13:44.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentModel.Context.cs",
+              "DocumentMoniker": "D:\\C#_WinForm\\49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD\\Model\\StudentModel.Context.cs",
+              "RelativeDocumentMoniker": "49.DATABASE FIRST APPROCH CRUD\\Model\\StudentModel.Context.cs",
+              "ToolTip": "D:\\C#_WinForm\\49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD\\Model\\StudentModel.Context.cs",
+              "RelativeToolTip": "49.DATABASE FIRST APPROCH CRUD\\Model\\StudentModel.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:11:59.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#_WinForm\\49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "49.DATABASE FIRST APPROCH CRUD\\Form1.cs",
+              "ToolTip": "D:\\C#_WinForm\\49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD\\Form1.cs [Design]*",
+              "RelativeToolTip": "49.DATABASE FIRST APPROCH CRUD\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:47:08.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\C#_WinForm\\49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD\\Model\\StudentModel.edmx",
+              "RelativeDocumentMoniker": "49.DATABASE FIRST APPROCH CRUD\\Model\\StudentModel.edmx",
+              "ToolTip": "D:\\C#_WinForm\\49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD\\Model\\StudentModel.edmx [Diagram1]",
+              "RelativeToolTip": "49.DATABASE FIRST APPROCH CRUD\\Model\\StudentModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-08-21T04:09:29.627Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\C#_WinForm\\49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD\\Model\\student.cs",
+              "RelativeDocumentMoniker": "49.DATABASE FIRST APPROCH CRUD\\Model\\student.cs",
+              "ToolTip": "D:\\C#_WinForm\\49.DATABASE FIRST APPROCH CRUD\\49.DATABASE FIRST APPROCH CRUD\\Model\\student.cs",
+              "RelativeToolTip": "49.DATABASE FIRST APPROCH CRUD\\Model\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:11:13.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

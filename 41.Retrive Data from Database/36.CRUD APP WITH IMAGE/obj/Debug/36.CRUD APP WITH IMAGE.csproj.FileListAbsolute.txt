@@ -1,0 +1,20 @@
+D:\C#_WinForm\36.CRUD APP WITH IMAGE\36.CRUD APP WITH IMAGE\bin\Debug\36.CRUD APP WITH IMAGE.exe.config
+D:\C#_WinForm\36.CRUD APP WITH IMAGE\36.CRUD APP WITH IMAGE\bin\Debug\36.CRUD APP WITH IMAGE.exe
+D:\C#_WinForm\36.CRUD APP WITH IMAGE\36.CRUD APP WITH IMAGE\bin\Debug\36.CRUD APP WITH IMAGE.pdb
+D:\C#_WinForm\36.CRUD APP WITH IMAGE\36.CRUD APP WITH IMAGE\obj\Debug\36.CRUD APP WITH IMAGE.csproj.AssemblyReference.cache
+D:\C#_WinForm\36.CRUD APP WITH IMAGE\36.CRUD APP WITH IMAGE\obj\Debug\_36.CRUD_APP_WITH_IMAGE.Form1.resources
+D:\C#_WinForm\36.CRUD APP WITH IMAGE\36.CRUD APP WITH IMAGE\obj\Debug\_36.CRUD_APP_WITH_IMAGE.Properties.Resources.resources
+D:\C#_WinForm\36.CRUD APP WITH IMAGE\36.CRUD APP WITH IMAGE\obj\Debug\36.CRUD APP WITH IMAGE.csproj.GenerateResource.cache
+D:\C#_WinForm\36.CRUD APP WITH IMAGE\36.CRUD APP WITH IMAGE\obj\Debug\36.CRUD APP WITH IMAGE.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\36.CRUD APP WITH IMAGE\36.CRUD APP WITH IMAGE\obj\Debug\36.CRUD APP WITH IMAGE.exe
+D:\C#_WinForm\36.CRUD APP WITH IMAGE\36.CRUD APP WITH IMAGE\obj\Debug\36.CRUD APP WITH IMAGE.pdb
+D:\C#_WinForm\41.Retrive Data from Database\36.CRUD APP WITH IMAGE\bin\Debug\36.CRUD APP WITH IMAGE.exe.config
+D:\C#_WinForm\41.Retrive Data from Database\36.CRUD APP WITH IMAGE\bin\Debug\36.CRUD APP WITH IMAGE.exe
+D:\C#_WinForm\41.Retrive Data from Database\36.CRUD APP WITH IMAGE\bin\Debug\36.CRUD APP WITH IMAGE.pdb
+D:\C#_WinForm\41.Retrive Data from Database\36.CRUD APP WITH IMAGE\obj\Debug\36.CRUD APP WITH IMAGE.csproj.AssemblyReference.cache
+D:\C#_WinForm\41.Retrive Data from Database\36.CRUD APP WITH IMAGE\obj\Debug\_36.CRUD_APP_WITH_IMAGE.Form1.resources
+D:\C#_WinForm\41.Retrive Data from Database\36.CRUD APP WITH IMAGE\obj\Debug\_36.CRUD_APP_WITH_IMAGE.Properties.Resources.resources
+D:\C#_WinForm\41.Retrive Data from Database\36.CRUD APP WITH IMAGE\obj\Debug\36.CRUD APP WITH IMAGE.csproj.GenerateResource.cache
+D:\C#_WinForm\41.Retrive Data from Database\36.CRUD APP WITH IMAGE\obj\Debug\36.CRUD APP WITH IMAGE.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\41.Retrive Data from Database\36.CRUD APP WITH IMAGE\obj\Debug\36.CRUD APP WITH IMAGE.exe
+D:\C#_WinForm\41.Retrive Data from Database\36.CRUD APP WITH IMAGE\obj\Debug\36.CRUD APP WITH IMAGE.pdb

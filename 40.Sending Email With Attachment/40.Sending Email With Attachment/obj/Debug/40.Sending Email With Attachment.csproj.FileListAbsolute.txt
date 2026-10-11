@@ -1,0 +1,10 @@
+D:\C#_WinForm\40.Sending Email With Attachment\40.Sending Email With Attachment\bin\Debug\40.Sending Email With Attachment.exe.config
+D:\C#_WinForm\40.Sending Email With Attachment\40.Sending Email With Attachment\bin\Debug\40.Sending Email With Attachment.exe
+D:\C#_WinForm\40.Sending Email With Attachment\40.Sending Email With Attachment\bin\Debug\40.Sending Email With Attachment.pdb
+D:\C#_WinForm\40.Sending Email With Attachment\40.Sending Email With Attachment\obj\Debug\40.Sending Email With Attachment.csproj.AssemblyReference.cache
+D:\C#_WinForm\40.Sending Email With Attachment\40.Sending Email With Attachment\obj\Debug\_40.Sending_Email_With_Attachment.Form1.resources
+D:\C#_WinForm\40.Sending Email With Attachment\40.Sending Email With Attachment\obj\Debug\_40.Sending_Email_With_Attachment.Properties.Resources.resources
+D:\C#_WinForm\40.Sending Email With Attachment\40.Sending Email With Attachment\obj\Debug\40.Sending Email With Attachment.csproj.GenerateResource.cache
+D:\C#_WinForm\40.Sending Email With Attachment\40.Sending Email With Attachment\obj\Debug\40.Sending Email With Attachment.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\40.Sending Email With Attachment\40.Sending Email With Attachment\obj\Debug\40.Sending Email With Attachment.exe
+D:\C#_WinForm\40.Sending Email With Attachment\40.Sending Email With Attachment\obj\Debug\40.Sending Email With Attachment.pdb

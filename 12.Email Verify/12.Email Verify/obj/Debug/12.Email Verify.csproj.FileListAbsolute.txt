@@ -1,0 +1,10 @@
+D:\C#_WinForm\12.Email Verify\12.Email Verify\bin\Debug\12.Email Verify.exe.config
+D:\C#_WinForm\12.Email Verify\12.Email Verify\bin\Debug\12.Email Verify.exe
+D:\C#_WinForm\12.Email Verify\12.Email Verify\bin\Debug\12.Email Verify.pdb
+D:\C#_WinForm\12.Email Verify\12.Email Verify\obj\Debug\12.Email Verify.csproj.AssemblyReference.cache
+D:\C#_WinForm\12.Email Verify\12.Email Verify\obj\Debug\_12.Email_Verify.Form1.resources
+D:\C#_WinForm\12.Email Verify\12.Email Verify\obj\Debug\_12.Email_Verify.Properties.Resources.resources
+D:\C#_WinForm\12.Email Verify\12.Email Verify\obj\Debug\12.Email Verify.csproj.GenerateResource.cache
+D:\C#_WinForm\12.Email Verify\12.Email Verify\obj\Debug\12.Email Verify.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\12.Email Verify\12.Email Verify\obj\Debug\12.Email Verify.exe
+D:\C#_WinForm\12.Email Verify\12.Email Verify\obj\Debug\12.Email Verify.pdb

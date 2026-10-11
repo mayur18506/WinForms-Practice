@@ -1,0 +1,10 @@
+D:\C#_WinForm\11.Error Provider Example\11.Error Provider Example\bin\Debug\11.Error Provider Example.exe.config
+D:\C#_WinForm\11.Error Provider Example\11.Error Provider Example\bin\Debug\11.Error Provider Example.exe
+D:\C#_WinForm\11.Error Provider Example\11.Error Provider Example\bin\Debug\11.Error Provider Example.pdb
+D:\C#_WinForm\11.Error Provider Example\11.Error Provider Example\obj\Debug\11.Error Provider Example.csproj.AssemblyReference.cache
+D:\C#_WinForm\11.Error Provider Example\11.Error Provider Example\obj\Debug\_11.Error_Provider_Example.Form1.resources
+D:\C#_WinForm\11.Error Provider Example\11.Error Provider Example\obj\Debug\_11.Error_Provider_Example.Properties.Resources.resources
+D:\C#_WinForm\11.Error Provider Example\11.Error Provider Example\obj\Debug\11.Error Provider Example.csproj.GenerateResource.cache
+D:\C#_WinForm\11.Error Provider Example\11.Error Provider Example\obj\Debug\11.Error Provider Example.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\11.Error Provider Example\11.Error Provider Example\obj\Debug\11.Error Provider Example.exe
+D:\C#_WinForm\11.Error Provider Example\11.Error Provider Example\obj\Debug\11.Error Provider Example.pdb

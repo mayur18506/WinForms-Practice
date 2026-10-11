@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_WinForm\\Desktop Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2D2621-197D-4A15-98AB-44E958549159}|Desktop Management System\\Desktop Management System.csproj|d:\\c#_winform\\desktop management system\\desktop management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E2D2621-197D-4A15-98AB-44E958549159}|Desktop Management System\\Desktop Management System.csproj|solutionrelative:desktop management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2D2621-197D-4A15-98AB-44E958549159}|Desktop Management System\\Desktop Management System.csproj|d:\\c#_winform\\desktop management system\\desktop management system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4E2D2621-197D-4A15-98AB-44E958549159}|Desktop Management System\\Desktop Management System.csproj|solutionrelative:desktop management system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E2D2621-197D-4A15-98AB-44E958549159}|Desktop Management System\\Desktop Management System.csproj|d:\\c#_winform\\desktop management system\\desktop management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E2D2621-197D-4A15-98AB-44E958549159}|Desktop Management System\\Desktop Management System.csproj|solutionrelative:desktop management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#_WinForm\\Desktop Management System\\Desktop Management System\\Form1.cs",
+              "RelativeDocumentMoniker": "Desktop Management System\\Form1.cs",
+              "ToolTip": "D:\\C#_WinForm\\Desktop Management System\\Desktop Management System\\Form1.cs",
+              "RelativeToolTip": "Desktop Management System\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T14:50:17.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\C#_WinForm\\Desktop Management System\\Desktop Management System\\App.config",
+              "RelativeDocumentMoniker": "Desktop Management System\\App.config",
+              "ToolTip": "D:\\C#_WinForm\\Desktop Management System\\Desktop Management System\\App.config",
+              "RelativeToolTip": "Desktop Management System\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-18T14:55:10.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#_WinForm\\Desktop Management System\\Desktop Management System\\Form1.cs",
+              "RelativeDocumentMoniker": "Desktop Management System\\Form1.cs",
+              "ToolTip": "D:\\C#_WinForm\\Desktop Management System\\Desktop Management System\\Form1.cs [Design]",
+              "RelativeToolTip": "Desktop Management System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T14:50:12.277Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

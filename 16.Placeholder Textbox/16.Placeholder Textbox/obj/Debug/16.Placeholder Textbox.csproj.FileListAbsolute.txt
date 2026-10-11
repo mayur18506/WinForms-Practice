@@ -1,0 +1,10 @@
+D:\C#_WinForm\16.Placeholder Textbox\16.Placeholder Textbox\bin\Debug\16.Placeholder Textbox.exe.config
+D:\C#_WinForm\16.Placeholder Textbox\16.Placeholder Textbox\bin\Debug\16.Placeholder Textbox.exe
+D:\C#_WinForm\16.Placeholder Textbox\16.Placeholder Textbox\bin\Debug\16.Placeholder Textbox.pdb
+D:\C#_WinForm\16.Placeholder Textbox\16.Placeholder Textbox\obj\Debug\16.Placeholder Textbox.csproj.AssemblyReference.cache
+D:\C#_WinForm\16.Placeholder Textbox\16.Placeholder Textbox\obj\Debug\_16.Placeholder_Textbox.Form1.resources
+D:\C#_WinForm\16.Placeholder Textbox\16.Placeholder Textbox\obj\Debug\_16.Placeholder_Textbox.Properties.Resources.resources
+D:\C#_WinForm\16.Placeholder Textbox\16.Placeholder Textbox\obj\Debug\16.Placeholder Textbox.csproj.GenerateResource.cache
+D:\C#_WinForm\16.Placeholder Textbox\16.Placeholder Textbox\obj\Debug\16.Placeholder Textbox.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\16.Placeholder Textbox\16.Placeholder Textbox\obj\Debug\16.Placeholder Textbox.exe
+D:\C#_WinForm\16.Placeholder Textbox\16.Placeholder Textbox\obj\Debug\16.Placeholder Textbox.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_WinForm\\5.Link Label Control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35D1C5-C7C7-4F40-A0B4-3A433F916FFB}|5.Link Label Control\\5.Link Label Control.csproj|d:\\c#_winform\\5.link label control\\5.link label control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA35D1C5-C7C7-4F40-A0B4-3A433F916FFB}|5.Link Label Control\\5.Link Label Control.csproj|solutionrelative:5.link label control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35D1C5-C7C7-4F40-A0B4-3A433F916FFB}|5.Link Label Control\\5.Link Label Control.csproj|d:\\c#_winform\\5.link label control\\5.link label control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35D1C5-C7C7-4F40-A0B4-3A433F916FFB}|5.Link Label Control\\5.Link Label Control.csproj|solutionrelative:5.link label control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#_WinForm\\5.Link Label Control\\5.Link Label Control\\Form1.cs",
+              "RelativeDocumentMoniker": "5.Link Label Control\\Form1.cs",
+              "ToolTip": "D:\\C#_WinForm\\5.Link Label Control\\5.Link Label Control\\Form1.cs*",
+              "RelativeToolTip": "5.Link Label Control\\Form1.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T09:36:32.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#_WinForm\\5.Link Label Control\\5.Link Label Control\\Form1.cs",
+              "RelativeDocumentMoniker": "5.Link Label Control\\Form1.cs",
+              "ToolTip": "D:\\C#_WinForm\\5.Link Label Control\\5.Link Label Control\\Form1.cs [Design]*",
+              "RelativeToolTip": "5.Link Label Control\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T09:19:37.613Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

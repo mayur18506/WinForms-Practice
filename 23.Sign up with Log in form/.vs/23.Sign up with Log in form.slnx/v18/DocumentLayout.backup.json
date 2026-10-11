@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_WinForm\\23.Sign up with Log in form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39F24FBD-FE1D-44FC-94BE-5C1F581AC705}|23.Sign up with Log in form\\23.Sign up with Log in form.csproj|d:\\c#_winform\\23.sign up with log in form\\23.sign up with log in form\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39F24FBD-FE1D-44FC-94BE-5C1F581AC705}|23.Sign up with Log in form\\23.Sign up with Log in form.csproj|solutionrelative:23.sign up with log in form\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F24FBD-FE1D-44FC-94BE-5C1F581AC705}|23.Sign up with Log in form\\23.Sign up with Log in form.csproj|d:\\c#_winform\\23.sign up with log in form\\23.sign up with log in form\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F24FBD-FE1D-44FC-94BE-5C1F581AC705}|23.Sign up with Log in form\\23.Sign up with Log in form.csproj|solutionrelative:23.sign up with log in form\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F24FBD-FE1D-44FC-94BE-5C1F581AC705}|23.Sign up with Log in form\\23.Sign up with Log in form.csproj|d:\\c#_winform\\23.sign up with log in form\\23.sign up with log in form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F24FBD-FE1D-44FC-94BE-5C1F581AC705}|23.Sign up with Log in form\\23.Sign up with Log in form.csproj|solutionrelative:23.sign up with log in form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F24FBD-FE1D-44FC-94BE-5C1F581AC705}|23.Sign up with Log in form\\23.Sign up with Log in form.csproj|d:\\c#_winform\\23.sign up with log in form\\23.sign up with log in form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F24FBD-FE1D-44FC-94BE-5C1F581AC705}|23.Sign up with Log in form\\23.Sign up with Log in form.csproj|solutionrelative:23.sign up with log in form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F24FBD-FE1D-44FC-94BE-5C1F581AC705}|23.Sign up with Log in form\\23.Sign up with Log in form.csproj|d:\\c#_winform\\23.sign up with log in form\\23.sign up with log in form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39F24FBD-FE1D-44FC-94BE-5C1F581AC705}|23.Sign up with Log in form\\23.Sign up with Log in form.csproj|solutionrelative:23.sign up with log in form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_WinForm\\23.Sign up with Log in form\\23.Sign up with Log in form\\Program.cs",
+              "RelativeDocumentMoniker": "23.Sign up with Log in form\\Program.cs",
+              "ToolTip": "D:\\C#_WinForm\\23.Sign up with Log in form\\23.Sign up with Log in form\\Program.cs",
+              "RelativeToolTip": "23.Sign up with Log in form\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:01:22.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SIGN UP.cs",
+              "DocumentMoniker": "D:\\C#_WinForm\\23.Sign up with Log in form\\23.Sign up with Log in form\\SIGN UP.cs",
+              "RelativeDocumentMoniker": "23.Sign up with Log in form\\SIGN UP.cs",
+              "ToolTip": "D:\\C#_WinForm\\23.Sign up with Log in form\\23.Sign up with Log in form\\SIGN UP.cs",
+              "RelativeToolTip": "23.Sign up with Log in form\\SIGN UP.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAAwC0BAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T10:57:08.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SIGN UP.cs [Design]",
+              "DocumentMoniker": "D:\\C#_WinForm\\23.Sign up with Log in form\\23.Sign up with Log in form\\SIGN UP.cs",
+              "RelativeDocumentMoniker": "23.Sign up with Log in form\\SIGN UP.cs",
+              "ToolTip": "D:\\C#_WinForm\\23.Sign up with Log in form\\23.Sign up with Log in form\\SIGN UP.cs [Design]",
+              "RelativeToolTip": "23.Sign up with Log in form\\SIGN UP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T10:44:15.464Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LOGIN.cs",
+              "DocumentMoniker": "D:\\C#_WinForm\\23.Sign up with Log in form\\23.Sign up with Log in form\\LOGIN.cs",
+              "RelativeDocumentMoniker": "23.Sign up with Log in form\\LOGIN.cs",
+              "ToolTip": "D:\\C#_WinForm\\23.Sign up with Log in form\\23.Sign up with Log in form\\LOGIN.cs",
+              "RelativeToolTip": "23.Sign up with Log in form\\LOGIN.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T10:42:00.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LOGIN.cs [Design]",
+              "DocumentMoniker": "D:\\C#_WinForm\\23.Sign up with Log in form\\23.Sign up with Log in form\\LOGIN.cs",
+              "RelativeDocumentMoniker": "23.Sign up with Log in form\\LOGIN.cs",
+              "ToolTip": "D:\\C#_WinForm\\23.Sign up with Log in form\\23.Sign up with Log in form\\LOGIN.cs [Design]",
+              "RelativeToolTip": "23.Sign up with Log in form\\LOGIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T10:34:46.419Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

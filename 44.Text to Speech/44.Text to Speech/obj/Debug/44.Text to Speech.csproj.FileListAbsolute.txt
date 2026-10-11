@@ -1,0 +1,10 @@
+D:\C#_WinForm\44.Text to Speech\44.Text to Speech\bin\Debug\44.Text to Speech.exe.config
+D:\C#_WinForm\44.Text to Speech\44.Text to Speech\bin\Debug\44.Text to Speech.exe
+D:\C#_WinForm\44.Text to Speech\44.Text to Speech\bin\Debug\44.Text to Speech.pdb
+D:\C#_WinForm\44.Text to Speech\44.Text to Speech\obj\Debug\44.Text to Speech.csproj.AssemblyReference.cache
+D:\C#_WinForm\44.Text to Speech\44.Text to Speech\obj\Debug\_44.Text_to_Speech.Form1.resources
+D:\C#_WinForm\44.Text to Speech\44.Text to Speech\obj\Debug\_44.Text_to_Speech.Properties.Resources.resources
+D:\C#_WinForm\44.Text to Speech\44.Text to Speech\obj\Debug\44.Text to Speech.csproj.GenerateResource.cache
+D:\C#_WinForm\44.Text to Speech\44.Text to Speech\obj\Debug\44.Text to Speech.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\44.Text to Speech\44.Text to Speech\obj\Debug\44.Text to Speech.exe
+D:\C#_WinForm\44.Text to Speech\44.Text to Speech\obj\Debug\44.Text to Speech.pdb

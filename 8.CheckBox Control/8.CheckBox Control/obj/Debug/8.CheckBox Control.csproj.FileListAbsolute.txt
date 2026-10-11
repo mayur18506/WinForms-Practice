@@ -1,0 +1,10 @@
+D:\C#_WinForm\8.CheckBox Control\8.CheckBox Control\bin\Debug\8.CheckBox Control.exe.config
+D:\C#_WinForm\8.CheckBox Control\8.CheckBox Control\bin\Debug\8.CheckBox Control.exe
+D:\C#_WinForm\8.CheckBox Control\8.CheckBox Control\bin\Debug\8.CheckBox Control.pdb
+D:\C#_WinForm\8.CheckBox Control\8.CheckBox Control\obj\Debug\8.CheckBox Control.csproj.AssemblyReference.cache
+D:\C#_WinForm\8.CheckBox Control\8.CheckBox Control\obj\Debug\_8.CheckBox_Control.Form1.resources
+D:\C#_WinForm\8.CheckBox Control\8.CheckBox Control\obj\Debug\_8.CheckBox_Control.Properties.Resources.resources
+D:\C#_WinForm\8.CheckBox Control\8.CheckBox Control\obj\Debug\8.CheckBox Control.csproj.GenerateResource.cache
+D:\C#_WinForm\8.CheckBox Control\8.CheckBox Control\obj\Debug\8.CheckBox Control.csproj.CoreCompileInputs.cache
+D:\C#_WinForm\8.CheckBox Control\8.CheckBox Control\obj\Debug\8.CheckBox Control.exe
+D:\C#_WinForm\8.CheckBox Control\8.CheckBox Control\obj\Debug\8.CheckBox Control.pdb
